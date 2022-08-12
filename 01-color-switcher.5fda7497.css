@@ -1,0 +1,2 @@
+.controls{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%)}button{cursor:pointer;color:#000;background-color:#efefef;border-width:1px;border-color:#515151;padding:10px 20px}button[disabled]{cursor:auto;opacity:.6}
+/*# sourceMappingURL=01-color-switcher.5fda7497.css.map */
