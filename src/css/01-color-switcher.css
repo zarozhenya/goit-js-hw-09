@@ -1,0 +1,21 @@
+.controls {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+button {
+  /* border: none; */
+  cursor: pointer;
+  border-width: 1px;
+  background-color: #efefef;
+  color: #000000;
+  border-color: #515151;
+  padding: 10px 20px;
+}
+
+button[disabled] {
+  cursor: auto;
+  opacity: 0.6;
+}
